@@ -11,10 +11,9 @@ bootstrap-timepicker-continuoushours
 Bootstrap Timepicker
 =====================
 
-``` bootstrap-timepicker
-
 View <a href="https://github.com/jdewit/bootstrap-timepicker">github project</a>.
-or
+
+
 View <a href="http://jdewit.github.com/bootstrap-timepicker">demos & documentation</a>.
 
 
