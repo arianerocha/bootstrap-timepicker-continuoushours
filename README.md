@@ -7,7 +7,7 @@ Plugin bootstrap-timepicker adapted to set more than 24 hours
 Bootstrap Timepicker
 =====================
 
-View <a href="https://github.com/jdewit/bootstrap-timepicker">github project</a>.
+View <a href="https://github.com/jdewit/bootstrap-timepicker" target="_blank">github project</a>.
 
-View <a href="http://jdewit.github.com/bootstrap-timepicker">demos & documentation</a>.
+View <a href="http://jdewit.github.com/bootstrap-timepicker" target="_blank">demos & documentation</a>.
 
