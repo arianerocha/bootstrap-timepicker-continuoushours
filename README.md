@@ -2,6 +2,7 @@ Timepicker for Twitter Bootstrap with Hours Continuous
 ------------------------------------
 
 Adaptado plugin bootstrap-timepicker para aceitar mais de 24 horas
+
 Plugin bootstrap-timepicker adapted to set more than 24 hours
 
 Bootstrap Timepicker
